@@ -14,7 +14,9 @@ between the function parenthesis.
 
 To run the program type in your terminal:
 
-python3 /workspaces/python_workshops/Sessions/Session_01/02_Solution/hello_world_soultion.py
+python3 Session_01/01_Hello_World/02_Solution/hello_world_solution.py 
+
+Make sure you're located at the Sessions folder
 """
 
 print("Hello World!")
