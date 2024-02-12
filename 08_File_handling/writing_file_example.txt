@@ -1,0 +1,2 @@
+Writing a file using with statement
+Adding text on append mode
